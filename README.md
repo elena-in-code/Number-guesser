@@ -17,6 +17,6 @@ Project part of the Udemy course by:
 
 ### User Stories: 
 
-+ Insert numbers and try to gest the winnig number
++ Insert numbers and try to guess the winnig number
 
 ##### Hope you like it!
