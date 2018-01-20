@@ -1,0 +1,14 @@
+body {
+    background: white;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    background:lightblue;
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 2%;
+}
+h1{
+    margin-top: 2%;
+}
